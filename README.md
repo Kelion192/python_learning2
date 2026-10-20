@@ -2,8 +2,8 @@
 
 Small scripts I wrote while learning Python.
 
-- `day01_count_lines.py` - counts lines and words in a text file
-- `day02_list_files.py` - lists files in a folder with their extensions
+- `day1` - counts lines and words in a text file
+- `day2` - lists files in a folder with their extensions
 
 ## Usage
 
